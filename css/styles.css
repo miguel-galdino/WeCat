@@ -36,6 +36,10 @@ footer p{
   padding: 0 0 4.5rem 0;
 }
 
+.wechat-logo{
+  height: 100px;
+}
+
 .navbar-brand{
   font-family: 'myriad-pro-condensed';
   font-size: 3rem;
@@ -67,7 +71,6 @@ footer p{
 .section-heading{
   font-size: 3rem;
 }
-
 
 /* Title  Section*/
 
@@ -161,7 +164,7 @@ footer p{
 /* Footer */
 
 #footer{
-  padding: 5% 10% 5%;
+  padding: 5% 10% 4%;
 }
 
 .footer-icon{
@@ -179,9 +182,14 @@ footer p{
       text-align: center;
     }
 
+    .wechat-logo{
+      margin: auto 0 auto 0; /*AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA*/
+      text-align: center;
+    }
+
     .title-image{
       transform: rotate(0);
-      margin: auto;
+      margin: auto 0 auto auto;
       width: 50%;
     }
 }
