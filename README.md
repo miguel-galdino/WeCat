@@ -2,7 +2,7 @@
 
 /* PORTUGUESE description */
 
-Como uma paródia do famoso aplicativo de conversas WeChat, surgiu meu site, WeCat, um site de relacionamento para gatos feito apenas com HTML e CSS. WeCat carrega um design estilo "start-up" e tem como principal objetivo induzir o usuário ao download do aplicativo fictício em questão. Você pode acessar em: https://miguel-galdino.github.io/WeCat/
+Como uma paródia do famoso aplicativo de conversas WeChat, surgiu meu site, WeCat, um site de relacionamento para gatos feito apenas com HTML e CSS. WeCat carrega um design estilo "start-up" e tem como principal objetivo induzir o usuário ao download do aplicativo fictício em questão. Você pode acessar em: /** manutenção **/
 
 Vamos ao site!
 
